@@ -1,6 +1,6 @@
 import java.rmi.Naming;
 
-public class VotingServer 
+public class VotingCandidate 
 {
 
 	public VotingServer() 
